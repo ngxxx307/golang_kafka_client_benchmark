@@ -2,6 +2,12 @@
 
 Copied and modified from [https://github.com/bigwhite/experiments/tree/master/kafka-clients/benchmark](https://github.com/bigwhite/experiments/tree/master/kafka-clients/benchmark)
 
+Clients included:
+- [IBM/sarama](https://github.com/IBM/sarama)
+- [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go)
+- [twmb/franz-go](https://github.com/twmb/franz-go)
+- [segmentio/kafka-go](https://github.com/segmentio/kafka-go)
+
 ### Benchmark Result
 
 ```
